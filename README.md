@@ -1,4 +1,4 @@
-# The-Science-of-Cinema-Predicting-Movie-Ratings-Through-Data
+## The-Science-of-Cinema-Predicting-Movie-Ratings-Through-Data
 
 This project aims to predict the rating category of a movie based on various features such as director popularity, budget, runtime, genre, and more. 
 
